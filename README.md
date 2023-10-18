@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lbobowiec
 - 👀 I’m interested in Algorithms & Data Structures, Cloud Computing and Machine Learning.
-- 🌱 I’m currently learning Google Cloud Platform (GCP) to pass Professional Cloud Architect certificate.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: lukasz.bobowiec@gmail.com
 
